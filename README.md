@@ -4,7 +4,11 @@ Modern portfolio theory is a practical way of maximising expected returns, at a 
 The main gist of Modern Portfolio Theory is:
 
 Calculate mean returns over a period for an asset
+
 Calculate standard deviation (risk) of an asset over a period
+
 Get the weighted sum of expected returns and risk of all assets in a portfolio
+
 Repeat multiple times for different weights
+
 Find the efficient frontier that maximises reward and minimises risk
